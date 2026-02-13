@@ -19,7 +19,8 @@ Central hub for Grin project documentation, governance, and financial transparen
 | [Quarterly Reports](financials/reports/) | Financial transparency reports |
 | [Burn Rate & Runway](financials/reports/burnrate_runway.md) | Monthly spend and runway estimates |
 | [Income Log](financials/income_log.csv) | Detailed income records |
-| [Spending Log](financials/spending_log.csv) | Detailed spending records |
+| [Spending Log](financials/spending_log.csv) | Detailed spending records (OC) |
+| [Spending Log (GGC)](financials/spending_log_ggc.csv) | Detailed spending records (GGC) |
 
 ## Meeting Notes
 
